@@ -1,6 +1,9 @@
-<div align="center">
+<!-- =========================================================
+     ANDRÉS FLORES VELÁSQUEZ — GITHUB PROFILE
+     github.com/aafloresv03
+========================================================= -->
 
-<img src="https://github.com/aafloresv03.png" width="140" alt="Andrés Flores Velásquez"/>
+<div align="center">
 
 # Andrés Flores Velásquez
 
@@ -8,261 +11,292 @@
 
 **Mobile · Web · Backend · Business Applications**
 
-I design and build software solutions focused on solving real-world problems — from mobile applications and business platforms to APIs, automation systems and offline-first software.
+<br>
+
+I design and build software that solves real business problems —
+from mobile applications and SaaS platforms to APIs, automation and offline-first systems.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-aafloresv03-181717?style=flat-square\&logo=github)](https://github.com/aafloresv03)
-![Location](https://img.shields.io/badge/Mérida-Spain-555555?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=flat-square)
+<a href="https://www.linkedin.com/in/aandresfv/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/aafloresv03">
+  <img src="https://img.shields.io/badge/GitHub-aafloresv03-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Mérida-Spain-555555?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-238636?style=flat-square" />
 
 </div>
 
 ---
 
-## About Me
+## Selected Work
 
-I'm a software developer based in Spain focused on creating **practical, scalable and maintainable digital products**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I work across different areas of software development, from mobile and web applications to databases, APIs, business logic and system integrations.
+### MatchBand
 
-My approach is simple:
+**Mobile platform connecting musicians and bands.**
 
-> Understand the problem first. Choose the technology second.
+Users can create musical profiles, discover compatible musicians and bands, and establish connections based on instruments, genres and experience.
 
-I prefer building software around real requirements instead of forcing every project into the same stack.
+**Built with**
+
+`Flutter` `Dart` `Firebase` `Firestore` `Cloudinary`
+
+**Engineering**
+
+* Authentication
+* Cloud data
+* User profiles
+* Matching logic
+* Media management
+* Modular architecture
+
+<br>
+
+<a href="https://github.com/aafloresv03/MatchBand">
+<strong>View repository →</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Calyra
+
+**Modular business software ecosystem for SMEs.**
+
+Designed to centralize business operations and connect management, sales, automation, analytics and external systems under the same platform.
+
+**Built with**
+
+`Flutter` `Dart` `Firebase` `SQL` `REST APIs`
+
+**Engineering**
+
+* SaaS architecture
+* Business workflows
+* API integrations
+* Data synchronization
+* Automation
+* AI integrations
+
+<br>
+
+**Private commercial project**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Calyra POS
+
+**Point of Sale software for real retail environments.**
+
+Designed around reliability, fast operation and the ability to continue working when internet connectivity is unavailable.
+
+**Built with**
+
+`Flutter` `Dart` `Firebase` `SQL` `REST APIs`
+
+**Engineering**
+
+* Offline-first architecture
+* Local persistence
+* Sales & returns
+* Cash register sessions
+* Barcode workflows
+* Multi-store synchronization
+* External SQL integration
+* Thermal printing
+
+<br>
+
+**Private commercial project**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Next Project
+
+More software is currently being prepared for public release.
+
+My GitHub is being reorganized to showcase production-oriented projects covering:
+
+`Android` `Java` `Python` `Backend` `APIs`
+
+<br>
+
+<a href="https://github.com/aafloresv03?tab=repositories">
+<strong>Explore repositories →</strong>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 <div align="center">
 
-### Mobile Development
+### Mobile
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java" alt="Mobile Stack"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java" height="45" alt="Flutter, Dart, Android Studio, Java" />
+
+<br><br>
 
 ### Backend & Programming
 
-<img src="https://skillicons.dev/icons?i=python,java,js,firebase" alt="Backend Stack"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,firebase" height="45" alt="Python, Java, JavaScript, Firebase" />
 
-### Web Development
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Stack"/>
+### Web
 
-### Databases & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js" height="45" alt="HTML, CSS, JavaScript" />
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Tools"/>
+<br><br>
+
+### Data & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="45" alt="SQL, Git, GitHub, Visual Studio Code" />
 
 </div>
 
 <br>
 
-| Area             | Technologies                                          |
-| ---------------- | ----------------------------------------------------- |
-| **Mobile**       | Flutter, Dart, Android                                |
-| **Programming**  | Java, Python, Dart, JavaScript                        |
-| **Backend**      | Firebase, REST APIs, backend services                 |
-| **Databases**    | SQL, Firestore                                        |
-| **Web**          | HTML, CSS, JavaScript                                 |
-| **Architecture** | Offline-first, modular applications, API integrations |
-| **Tools**        | Git, GitHub, Android Studio, VS Code                  |
+<table>
+<tr>
+<td><strong>Mobile</strong></td>
+<td>Flutter · Dart · Android</td>
+</tr>
+<tr>
+<td><strong>Languages</strong></td>
+<td>Java · Python · Dart · JavaScript</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>Firebase · REST APIs · Backend Services</td>
+</tr>
+<tr>
+<td><strong>Data</strong></td>
+<td>SQL · Firestore · Local Persistence</td>
+</tr>
+<tr>
+<td><strong>Web</strong></td>
+<td>HTML · CSS · JavaScript</td>
+</tr>
+<tr>
+<td><strong>Architecture</strong></td>
+<td>Offline-first · Modular Applications · API Integrations · Cloud Synchronization</td>
+</tr>
+</table>
 
 ---
 
-# Featured Projects
-
-## MatchBand
-
-### Mobile platform for musicians and bands
-
-MatchBand is a mobile application designed to connect musicians based on their instruments, genres, experience and musical interests.
-
-The platform allows users to create musical profiles, discover compatible musicians and bands, and manage connections through a cloud-based architecture.
-
-### Main Features
-
-* User authentication
-* Musician profiles
-* Band profiles
-* Musician discovery
-* Matching system
-* Cloud-based data storage
-* Media management
-* Modular application structure
-
-### Stack
-
-`Flutter` · `Dart` · `Firebase Authentication` · `Firestore` · `Cloudinary`
-
-### Engineering Areas
-
-`Mobile Architecture` · `Authentication` · `Cloud Data` · `State Management` · `Matching Logic`
-
-[View MatchBand repository →](https://github.com/aafloresv03/MatchBand)
-
----
-
-## Calyra
-
-### Business software ecosystem for SMEs
-
-Calyra is a modular software ecosystem designed to help businesses centralize, digitalize and automate their daily operations.
-
-The project is built around the idea of connecting multiple business tools under the same infrastructure.
-
-### Core Areas
-
-* Business management
-* Product management
-* Sales management
-* SaaS architecture
-* Automation
-* APIs
-* System integrations
-* Data synchronization
-* Artificial intelligence integrations
-* Business analytics
-
-### Stack
-
-`Flutter` · `Dart` · `JavaScript` · `Firebase` · `SQL` · `REST APIs`
-
-> Commercial project currently under active development.
-> Some source code, infrastructure and business logic remain private.
-
----
-
-## Calyra POS
-
-### Point of Sale system designed for real retail environments
-
-Calyra POS is a Point of Sale application designed around speed, reliability and operation in environments where internet connectivity cannot always be guaranteed.
-
-The system connects mobile devices, local business workflows, cloud services and external databases.
-
-### Features
-
-* Product catalogue
-* Barcode workflows
-* Shopping cart
-* Sales management
-* Ticket generation
-* Ticket reprinting
-* Cash register sessions
-* Returns
-* Weight-based products
-* Local persistence
-* Offline operation
-* Multi-store synchronization
-* External SQL integration
-* Thermal printer integration
-* Business configuration
-* Role-based access
-
-### Stack
-
-`Flutter` · `Dart` · `Firebase` · `SQL` · `REST APIs`
-
-### Architecture
-
-`Offline-first` · `Local Persistence` · `Cloud Synchronization` · `External System Integration`
-
-> Private commercial project.
-
----
-
-# What I Build
-
-I am particularly interested in software where multiple systems, technologies and business processes need to work together.
+## What I Do
 
 ```text
-Mobile / Web Applications
-          │
-          ├── Business Logic
-          │
-          ├── REST APIs
-          │
-          ├── Cloud Services
-          │
-          ├── Local Databases
-          │
-          ├── Authentication
-          │
-          ├── Automation
-          │
-          └── External Systems
+Business Problem
+       │
+       ▼
+Requirements & Analysis
+       │
+       ▼
+Software Architecture
+       │
+       ├── Mobile / Web
+       ├── Backend
+       ├── APIs
+       ├── Databases
+       ├── Cloud Services
+       ├── Automation
+       └── External Systems
+       │
+       ▼
+Production-ready Solution
 ```
 
-My goal is not only to build interfaces.
+I don't approach development as a collection of isolated technologies.
 
-I aim to understand the complete workflow behind a product and build software that works reliably in real environments.
+I focus on understanding the **complete workflow behind a product**, selecting the appropriate tools and building software around actual operational requirements.
 
 ---
 
-## Areas of Interest
+## Engineering Focus
 
 <div align="center">
 
-![Mobile](https://img.shields.io/badge/Mobile%20Development-20232A?style=for-the-badge)
-![Business](https://img.shields.io/badge/Business%20Software-20232A?style=for-the-badge)
-![SaaS](https://img.shields.io/badge/SaaS-20232A?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-20232A?style=for-the-badge)
+<img src="https://img.shields.io/badge/Mobile%20Development-161B22?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Business%20Software-161B22?style=for-the-badge&logo=buffer&logoColor=white" />
+<img src="https://img.shields.io/badge/SaaS-161B22?style=for-the-badge&logo=icloud&logoColor=white" />
 
-![APIs](https://img.shields.io/badge/APIs%20%26%20Integrations-20232A?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-20232A?style=for-the-badge)
-![Offline](https://img.shields.io/badge/Offline--First-20232A?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Software%20Architecture-20232A?style=for-the-badge)
+<br>
+
+<img src="https://img.shields.io/badge/Backend-161B22?style=for-the-badge&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-161B22?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-161B22?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Offline--First-161B22?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Architecture-161B22?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 
 </div>
 
 ---
 
-## Currently Working On
+## Currently Building
 
 ```text
 Calyra
 │
-├── SaaS Platform
-├── Business Management
+├── SaaS & Business Management
+├── Mobile Applications
 ├── Point of Sale Systems
-├── Flutter Applications
-├── Backend Architecture
-├── APIs
-├── Automation
+├── Backend Services
+├── APIs & Integrations
 ├── Data Synchronization
-└── AI Integrations
+├── Automation
+└── AI-powered Workflows
 ```
 
-Alongside product development, I'm currently strengthening my knowledge in:
+At the same time, I'm expanding my work in:
 
-**Software Architecture · Backend Development · Android Development · API Design · System Integration · Scalable Applications**
+**Android Development · Java · Python · Backend Architecture · API Design · Scalable Systems**
 
 ---
 
-## Development Approach
+## How I Work
 
-```text
-Understand the problem
-        ↓
-Analyse requirements
-        ↓
-Design the architecture
-        ↓
-Choose the technology
-        ↓
-Build
-        ↓
-Test in real scenarios
-        ↓
-Measure
-        ↓
-Improve
-```
+<table>
+<tr>
+<td align="center"><strong>01</strong><br>Understand</td>
+<td align="center">→</td>
+<td align="center"><strong>02</strong><br>Analyse</td>
+<td align="center">→</td>
+<td align="center"><strong>03</strong><br>Design</td>
+<td align="center">→</td>
+<td align="center"><strong>04</strong><br>Build</td>
+<td align="center">→</td>
+<td align="center"><strong>05</strong><br>Validate</td>
+<td align="center">→</td>
+<td align="center"><strong>06</strong><br>Improve</td>
+</tr>
+</table>
 
-I value software that is:
+My priorities are straightforward:
 
-**Useful · Maintainable · Scalable · Understandable · Reliable**
+**Reliability · Maintainability · Usability · Scalability · Business Value**
 
 ---
 
@@ -270,46 +304,37 @@ I value software that is:
 
 <div align="center">
 
-<a href="https://github.com/aafloresv03">
-<img src="https://img.shields.io/github/followers/aafloresv03?label=GitHub%20Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+<a href="https://github.com/aafloresv03?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/aafloresv03?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+<a href="https://github.com/aafloresv03">
+<img src="https://img.shields.io/github/followers/aafloresv03?label=Follow&style=for-the-badge&logo=github" />
 </a>
 
 </div>
 
 ---
 
-## Let's Connect
-
 <div align="center">
+
+## Let's build something useful.
 
 I'm open to **software development opportunities, collaborations and technical projects**.
 
 <br>
 
+<a href="https://www.linkedin.com/in/aandresfv/">
+<img src="https://img.shields.io/badge/LinkedIn-Andrés%20Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="https://github.com/aafloresv03">
-<img src="https://img.shields.io/badge/GitHub-aafloresv03-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<!-- Add your LinkedIn URL here when ready -->
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<!-- Add your portfolio URL here when ready -->
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-555555?style=for-the-badge&logo=googlechrome" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/GitHub-aafloresv03-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-### Software Developer
-
-**Mobile · Web · Backend · Business Software**
+**Software Developer**
+Mobile · Web · Backend · Business Software
 
 </div>
