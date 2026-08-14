@@ -2,58 +2,28 @@
 
 ### Software Developer · Mobile, Web & Business Applications
 
-I build software solutions focused on solving real-world problems, from mobile and web applications to business management systems and automation tools.
+I build **mobile, web and business software** focused on solving real-world problems.
 
-My work covers the full development process: understanding requirements, designing the solution, developing the product and integrating the technologies required to make it work in real environments.
-
----
-
-## About me
-
-* Software Developer based in Spain.
-* Experience developing **mobile, web and business applications**.
-* Focused on building practical, maintainable and scalable solutions.
-* Interested in **software architecture, SaaS, automation and business systems**.
-* Comfortable working across different technologies depending on the requirements of the project.
+My work spans product design, application development, databases, APIs and system integrations, choosing the right technology for each project.
 
 ---
 
 ## Tech Stack
 
-### Mobile
-
+**Mobile**
 `Flutter` · `Dart` · `Android`
 
-### Languages
-
+**Programming**
 `Java` · `Python` · `Dart` · `JavaScript`
 
-### Backend & Data
-
+**Backend & Data**
 `Firebase` · `Firestore` · `SQL` · `REST APIs`
 
-### Web
-
+**Web**
 `HTML` · `CSS` · `JavaScript`
 
-### Tools
-
+**Tools**
 `Git` · `GitHub` · `Android Studio` · `VS Code`
-
----
-
-## What I build
-
-I am particularly interested in projects involving:
-
-* Mobile applications
-* Business management software
-* SaaS platforms
-* Point of Sale systems
-* APIs and system integrations
-* Automation
-* Offline-first applications
-* Database-driven applications
 
 ---
 
@@ -61,35 +31,77 @@ I am particularly interested in projects involving:
 
 ### MatchBand
 
-Mobile application designed to connect musicians and bands based on instruments, genres and experience.
+Mobile platform that connects musicians and bands based on instruments, genres and experience.
 
-**Stack:** Flutter · Dart · Firebase · Firestore
+**Flutter · Dart · Firebase · Firestore**
 
-### Calyra
-
-Business software ecosystem focused on helping companies manage and automate their operations.
-
-**Areas:** SaaS · Business Management · Automation · APIs
-
-### Calyra POS
-
-Point of Sale application designed for real business environments, including product management, sales, ticket management and offline operation.
-
-**Stack:** Flutter · Firebase · SQL · REST integrations
+→ [View repository](https://github.com/aafloresv03/MatchBand)
 
 ---
 
-## Current Focus
+### Calyra
 
-Currently improving my knowledge and building software around:
+Business software ecosystem designed to digitalize and automate operations for SMEs.
 
-`Flutter` · `Android` · `Java` · `Python` · `Backend Development` · `Software Architecture`
+Areas include:
+
+* Business management
+* SaaS
+* Automation
+* APIs
+* Product and sales management
+* System integrations
+
+**Flutter · JavaScript · Firebase · SQL · REST APIs**
+
+> Currently under active development.
+
+---
+
+### Calyra POS
+
+Point of Sale system designed for real retail environments.
+
+Key areas:
+
+* Product management
+* Sales and tickets
+* Offline operation
+* Local persistence
+* Store synchronization
+* External database integration
+
+**Flutter · Firebase · SQL · REST APIs**
+
+> Private commercial project.
+
+---
+
+## Areas I Work In
+
+`Mobile Development`
+`Business Software`
+`SaaS`
+`Backend Development`
+`APIs & Integrations`
+`Automation`
+`Offline-first Applications`
+
+---
+
+## Currently Learning & Improving
+
+* Software architecture
+* Backend development
+* Android development
+* Scalable application design
+* System integrations
 
 ---
 
 ## Contact
 
-Open to software development opportunities, collaborations and interesting projects.
+Open to **software development opportunities, collaborations and technical projects**.
 
 **LinkedIn:** Coming soon
 **Portfolio:** Coming soon
